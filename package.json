@@ -1,6 +1,6 @@
 {
   "name": "rtcquery-api",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -45,7 +45,7 @@
     "typescript": "3.1.1"
   },
   "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.",
-  "main": "dist/index.js",
+  "main": "dist/RTCQueryAPI/main.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Scorbutics/RTCQueryAPI.git"
